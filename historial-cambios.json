@@ -1,0 +1,22 @@
+{
+  "title": "Historial de Cambios",
+  "version": "1.0.0",
+  "lastUpdated": "11 de Diciembre, 2025",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "05/12/2025",
+      "title": "Lanzamiento Inicial DAY BEW",
+      "changes": [
+        "Plataforma completa de noticias",
+        "Sistema de búsqueda",
+        "Notificaciones en tiempo real",
+        "Sistema denoticias favoritas",
+        "Estadísticas de actividad",
+        "Tema oscuro/claro",
+        "Compartir artículos",
+        "Interfaz optimizada para móvil"
+      ]
+    }
+  ]
+}

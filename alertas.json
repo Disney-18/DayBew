@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Aplicación en Desarrollo ",
+      "message": "Estamos trabajando para brindarle un proyecto nuevo e innovador para usted",
+      "date": "2025-12-11",
+      "read": false
+    }
+  ]
+}
