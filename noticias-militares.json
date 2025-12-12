@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "id": 2,
+      "id": 1,
       "title": "Marine estadounidense exhibe botín de guerra en Tarawa, 1943",
       "content": [
         "Un marine estadounidense 🇺🇸 posa sonriente para la cámara de un reportero con su fusil M1 Garand y una katana sustraída a un oficial japonés 🇯🇵 durante la batalla de Tarawa, 1943.",
@@ -14,11 +14,11 @@
       ],
       "category": "Historia Militar",
       "source": "DAY BEW",
-      "date": "2025-12-03",
+      "date": "2025-12-10",
       "image": "https://8upload.com/image/d8ea852b3ef3a289/IMG-20251211-WA0024.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "Infantes de marina soviéticos en servicio durante la década de 1970",
       "content": [
         "Infantes de marina soviéticos ⭐ en uniforme de servicio durante la década de 1970.",
@@ -31,7 +31,7 @@
       ],
       "category": "Historia Militar",
       "source": "DAY BEW",
-      "date": "2025-12-02",
+      "date": "2025-12-11",
       "image": "https://8upload.com/image/5c29654b3e5d2fd2/IMG-20251212-WA0004_1_.jpg"
     }
   ]
